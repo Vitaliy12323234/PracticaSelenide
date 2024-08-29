@@ -7,17 +7,12 @@
     <list default="true" id="11932658-e46c-4612-9939-0831f0a74f58" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CreateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CreateInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Delete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Negativ.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/News.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/NoNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/NoNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Open.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Open.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Redact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Redact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MainTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/News.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/NoNews.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/NoNews.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Open.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/Open.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,36 +40,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.MainTest (1).executor": "Run",
-    "JUnit.MainTest$ValidNewsTests.testCreate.executor": "Run",
-    "JUnit.MainTest$ValidNewsTests.testDelete.executor": "Run",
-    "JUnit.MainTest$ValidNewsTests.testNews.executor": "Run",
-    "JUnit.MainTest$ValidNewsTests.testRedact.executor": "Run",
-    "JUnit.MainTest$noTests.executor": "Run",
-    "JUnit.MainTest.executor": "Run",
-    "JUnit.MainTest.testAddNews.executor": "Run",
-    "JUnit.MainTest.testAddValidNews (1).executor": "Run",
-    "JUnit.MainTest.testAddValidNews.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/Виталий/IdeaProjects/untitled1/src/test/java",
-    "last_opened_file_path": "/home/dunice/IdeaProjects/test",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest$ValidNewsTests.testCreate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest$ValidNewsTests.testDelete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest$ValidNewsTests.testNews.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest$ValidNewsTests.testRedact.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest$noTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testAddNews.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testAddValidNews (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.testAddValidNews.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Виталий/IdeaProjects/untitled1/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dunice/IdeaProjects/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest (1)">
+  <component name="RunManager" selected="JUnit.MainTest">
     <configuration name="MainTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <extension name="coverage">
@@ -86,22 +81,6 @@
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.MainTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest$ValidNewsTests.testCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.MainTest" />
-      <option name="MAIN_CLASS_NAME" value="org.example.MainTest$ValidNewsTests" />
-      <option name="METHOD_NAME" value="testCreate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest$ValidNewsTests.testRedact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
+    <configuration name="MainTest$ValidNewsTests.testNews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autoTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -132,7 +111,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example.MainTest" />
       <option name="MAIN_CLASS_NAME" value="org.example.MainTest$ValidNewsTests" />
-      <option name="METHOD_NAME" value="testRedact" />
+      <option name="METHOD_NAME" value="testNews" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,13 +132,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest$ValidNewsTests.testNews" />
         <item itemvalue="JUnit.MainTest (1)" />
         <item itemvalue="JUnit.MainTest$noTests" />
         <item itemvalue="JUnit.MainTest$ValidNewsTests.testDelete" />
-        <item itemvalue="JUnit.MainTest$ValidNewsTests.testCreate" />
-        <item itemvalue="JUnit.MainTest$ValidNewsTests.testRedact" />
       </list>
     </recent_temporary>
   </component>

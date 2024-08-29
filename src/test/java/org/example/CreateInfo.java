@@ -13,7 +13,7 @@ public class CreateInfo {
         $x("//input[@placeholder='Имя']").setValue("Вет");
         $x("//input[@placeholder='Фамилия']").setValue("Рут");
         File file = $x("/html/body/div/div/div/div[1]/div/div/form/div[5]/div/input")
-                .uploadFile(new File("C:/Users/Виталий/Desktop/w.png"));
+                .uploadFile(new File("/home/dunice/Downloads/e.png"));
         $x("/html/body/div/div/div/div[1]/div/div/form/button").click();
 
     }
