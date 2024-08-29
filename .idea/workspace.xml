@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11932658-e46c-4612-9939-0831f0a74f58" name="Changes" comment="" />
+    <list default="true" id="11932658-e46c-4612-9939-0831f0a74f58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/0213e6a0-601c-4776-b468-89ba4f15e11c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c6bb3b2-1285-4ee2-b9ac-a3e401064c6c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f1f47c9-68c9-4d26-9e22-593d0147fce1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7825c7d7-2a87-49fb-8d82-3854126bfb41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/970cb925-d406-4b4f-9e4f-7cf8600496cc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba654692-3f9e-42a2-92f7-e7bf36683a18-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb7c2110-894a-4327-a24c-a4fa4aa493d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc9ddc62-7e5e-4f16-aa58-31efea3d274e-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MainTest$ValidNewsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MainTest$ValidNewsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/News.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +74,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest">
+  <component name="RunManager" selected="JUnit.MainTest$ValidNewsTests.testNews">
     <configuration name="MainTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <extension name="coverage">
@@ -140,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.MainTest$ValidNewsTests.testNews" />
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.MainTest (1)" />
         <item itemvalue="JUnit.MainTest$noTests" />
         <item itemvalue="JUnit.MainTest$ValidNewsTests.testDelete" />

@@ -19,7 +19,7 @@ public class NoNews {
                 File file = $x("/html/body/div[2]/div[3]/form/div[4]/div/input")
                         .uploadFile(new File("/home/dunice/Downloads/e.png"));
                 if (!$x("/html/body/div[2]/div[3]/form/button").isEnabled()) {
-                    System.out.println("Кнопка 'ОТПРАВИТЬ' отключена. Форма не заполнена должным образом.");
+                    System.out.println("Кнопка 'ОТПРАВИТЬ' отключена.");
                 } else {
                     $x("/html/body/div[2]/div[3]/form/button").click();
                 }

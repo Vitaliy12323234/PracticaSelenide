@@ -16,7 +16,7 @@ public class News {
         $x("//input[@placeholder='Теги']").setValue("так,надо");
         //$x("//html/body/div[2]/div[3]/form/div[4]/div").click();
         File file = $x("/html/body/div[2]/div[3]/form/div[4]/div/input")
-                .uploadFile(new File("/home/dunice/Downloads/e.png"));
+                .uploadFile(new File("src/test/resources/e.png"));
         $x("/html/body/div[2]/div[3]/form/button").click();
     }
 }
